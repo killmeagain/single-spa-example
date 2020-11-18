@@ -1,0 +1,10 @@
+ .page1-app__container  {
+     display: flex;
+     width: 100%;
+     justify-content: center;
+     align-items: center;
+     min-height: 85vh;
+     font-size: 50px;
+     font-width: bold;
+     background-color: aquamarine;
+ }

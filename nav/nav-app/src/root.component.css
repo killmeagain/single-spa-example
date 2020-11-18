@@ -1,0 +1,24 @@
+.nav {
+    width: 100%;
+    padding: 20px 410px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #6c6ca1;
+}
+
+.link {
+    min-width: 100px;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.link:hover {
+    background-color: aliceblue;
+    color: black;
+
+}
